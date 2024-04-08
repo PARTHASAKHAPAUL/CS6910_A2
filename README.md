@@ -1,2 +1,2 @@
 # CS6910_A2
-# Please see the partA and partB folder. There are separate files for README in those folder. And the codes for PartA and PartB are also in those folder only.
+# Please see the partA and partB folder. There are separate files for respective READMEs of partA and partB in those folder. And the codes for PartA and PartB are also in those folder. Initially I forgot to make the 1st file name with suffix as partA so thats why I have made the separate files in the separate folders partA and partB. So please see the folders partA and partB. Corresponding Codes and Readme's are in the folders
